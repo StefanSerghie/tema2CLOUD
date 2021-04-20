@@ -1,0 +1,12 @@
+﻿03/21 04/20 Aries
+04/21 05/20 Taurus
+05/21 06/21 Gemini
+06/22 07/22 Cancer
+07/23 08/22 Leo
+08/23 09/22 Virgo
+09/23 10/22 Libra
+10/23 11/22 Scorpio
+11/23 12/21 Sagittarius
+12/22 01/20 Capricorn
+01/21 02/18 Aquarius
+02/19 03/20 Pisces
